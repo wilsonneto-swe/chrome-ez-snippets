@@ -12,7 +12,7 @@ A Chrome extension for saving, managing, and quickly copying text snippets. Buil
 - **Toast notifications** — visual feedback for create, edit, copy, and delete actions
 - **Local storage** — all data stays in your browser, no account needed
 
-##Images
+## Images
 
 ![1ok](https://github.com/user-attachments/assets/d4106613-afc5-49d6-a974-aed1d73c4a7b)
 
